@@ -1,4 +1,5 @@
-package ifElse;
+package java1;
+
 import java.util.Scanner;
 
 public class IfElse {
@@ -16,7 +17,7 @@ public class IfElse {
         }
         System.out.println("Your salary is "+sal);
     } */
-                                          /*..........................................*/
+        /*..........................................*/
    /*   int number=10;
         if(number>0){
             System.out.println("the number is positive");
@@ -26,7 +27,7 @@ public class IfElse {
         }
         System.out.println("statement outside if-else");   */
 
-                                           /*.........................................*/
+        /*.........................................*/
    /*   Scanner obj=new Scanner(System.in);
         System.out.println("Enter your number");
         int number;
@@ -39,7 +40,7 @@ public class IfElse {
         }
         System.out.println("statment outside if-else"); */
 
-                                             /*........................................*/
+        /*........................................*/
    /*   int time=20;
         if(time<18){
             System.out.println("good morning");
@@ -47,7 +48,7 @@ public class IfElse {
             System.out.println("good night");
         }     */
 
-                                             /*........................................*/
+        /*........................................*/
 /*      Scanner obj=new Scanner(System.in);
         System.out.println("Enter time");
         int time;
@@ -58,11 +59,11 @@ public class IfElse {
             System.out.println("good night");
         }   */
 
-                                              /*.......................................*/
+        /*.......................................*/
  /*     int time=20;
         String result=(time<18) ? "good morning": "good night";
         System.out.println(result); */
-                                             /*.........................................*/
+        /*.........................................*/
 
         Scanner obj=new Scanner(System.in);
         System.out.println("Enter no. of petals");
